@@ -1,6 +1,6 @@
-Photo gallery with API
+Bootstrap layout
 
-training with: https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/
+Learning with: https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/
 
 
 
