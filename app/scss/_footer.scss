@@ -1,0 +1,14 @@
+footer {
+    input {
+        padding: 5px;
+        &:focus {
+            outline:none;
+            box-shadow: $primary 0px 0px 2px 1px;
+        }
+    }
+}
+.second-foot {
+    background-color: darken($secondary, 30%);
+    text-align: center;
+    color: white;
+}
